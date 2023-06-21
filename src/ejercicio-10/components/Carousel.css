@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.carousel-container {
+  text-align: center;
+}
+
+.carousel-image {
+  width: 400px;
+  height: 400px;
+}
